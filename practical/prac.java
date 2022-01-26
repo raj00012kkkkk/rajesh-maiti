@@ -1,5 +1,5 @@
 package practical;
 
-public class pro {
+public class prac {
 
 }

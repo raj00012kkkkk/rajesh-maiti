@@ -1,5 +1,5 @@
 package assignment;
 
-public class Inhe {
+public class assi {
 
 }
